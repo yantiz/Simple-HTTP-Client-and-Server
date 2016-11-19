@@ -1,3 +1,6 @@
-# cs118 project1
+#CS118 project1
 
-# Maolei Tang
+Group members:
+1. Maolei Tang
+2. Yanting Zeng
+3. Xiaorui Le
