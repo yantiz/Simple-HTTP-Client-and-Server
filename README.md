@@ -1,5 +1,5 @@
 # Simple-HTTP-Client-and-Server
 
-Build a website on movies, actors and their reviews by a relational database system 
+Learn socket and basic HTTP protocol by developing a simple Web server and client
 
-•	Use HTML/CSS to support the front-end and PHP, MySQL to support the back-end.
+• Implement some HTTP 1.0 features as the functionality of the web server and client.
