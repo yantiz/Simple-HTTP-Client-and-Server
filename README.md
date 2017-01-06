@@ -1,4 +1,4 @@
-# Simple-HTTP-Client-and-Server
+# Simple HTTP Client and Server
 
 Learn socket and basic HTTP protocol by developing a simple Web server and client.
 
